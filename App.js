@@ -1,5 +1,5 @@
 
-                                                                                  // the weeknd web
+                                                                                  // the weeknd web react
 
 import React, { useState, useRef, useEffect } from 'react';
 import { View, StyleSheet, Dimensions, PanResponder, Animated, TouchableOpacity, Text } from 'react-native';
